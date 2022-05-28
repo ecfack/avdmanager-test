@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<d:devices xmlns:d="http://schemas.android.com/sdk/devices/6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<d:devices xmlns:d="http://schemas.android.com/sdk/devices/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <d:device>
         <d:name>Samsung_Galaxy_A51</d:name>
         <d:manufacturer>User</d:manufacturer>
@@ -8,14 +8,14 @@
             <d:screen>
                 <d:screen-size>large</d:screen-size>
                 <d:diagonal-length>6.50</d:diagonal-length>
-                <d:pixel-density>xhdpi</d:pixel-density>
+                <d:pixel-density>xxhdpi</d:pixel-density>
                 <d:screen-ratio>long</d:screen-ratio>
                 <d:dimensions>
                     <d:x-dimension>1080</d:x-dimension>
-                    <d:y-dimension>2340</d:y-dimension>
+                    <d:y-dimension>2400</d:y-dimension>
                 </d:dimensions>
-                <d:xdpi>396.49</d:xdpi>
-                <d:ydpi>396.49</d:ydpi>
+                <d:xdpi>404.89</d:xdpi>
+                <d:ydpi>404.89</d:ydpi>
                 <d:touch>
                     <d:multitouch>jazz-hands</d:multitouch>
                     <d:mechanism>finger</d:mechanism>
